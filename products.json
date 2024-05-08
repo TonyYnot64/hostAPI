@@ -1,637 +1,134 @@
 [
-    {
-      "id": "cardone",
-      "name": "Forever Begins",
-      "company": "Love Letters",
-      "price": 49,
-      "colors": [
-        "#ff0000",
-        "#000000",
-        "#CDD0D0"
-      ],
-      "description": "Watercolor blooms dance across a crips ivory card, setting the stage for a celebration filled with elegance and joy.",
-      "category": "Ruby",
-      "featured": true,
-      "stock": 300,
-      "reviews": 58,
-      "stars": 4.8,
-      "image": [
-        {
-          "id": "randomid1",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/14961296/pexels-photo-14961296/free-photo-of-top-view-of-a-wedding-invitation-lying-on-wooden-surface.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "filename": "prod-1.png",
-          "size": 1080,
-          "type": "image/png"
-        },
-        {
-          "id": "randomid2",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/2072148/pexels-photo-2072148.jpeg",
-          "filename": "prod-2.png",
-          "size": 1080,
-          "type": "image/png"
-        },
-        {
-          "id": "randomid3",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/7256792/pexels-photo-7256792.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "filename": "prod-3.png",
-          "size": 1080,
-          "type": "image/png"
-        },
-        {
-          "id": "randomid4",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/931158/pexels-photo-931158.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "size": 1080,
-          "type": "image/png"
-        }
-      ]
-    },
-  
-  
-  
-    {
-      "id": "cardtwo",
-      "name": "Elegant Bliss",
-      "company": "Elegance Creations",
-      "price": 59,
-      "colors": [
-        "#000",
-        "#22D3EF"
-      ],
-      "description": "Simple yet sophisticated, this card radiates timeless elegance, perfect for any celebration.",
-      "category": "Platinum",
-      "shipping": true,
-      "stock": 300,
-      "reviews": 28,
-      "stars": 4.4,
-      "image": [
-        {
-          "id": "randomid1",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/17248928/pexels-photo-17248928/free-photo-of-a-wedding-invitation-among-flower-decorations.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "filename": "prod-1.png",
-          "size": 1080,
-          "type": "image/png"
-        },
-        {
-          "id": "randomid2",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/965993/pexels-photo-965993.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "filename": "prod-2.png",
-          "size": 1080,
-          "type": "image/png"
-        },
-        {
-          "id": "randomid3",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/4959837/pexels-photo-4959837.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "filename": "prod-3.png",
-          "size": 1080,
-          "type": "image/png"
-        },
-        {
-          "id": "randomid4",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/306066/pexels-photo-306066.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "filename": "prod-4.png",
-          "size": 1080,
-          "type": "image/png"
-        }
-      ]
-    },
-  
-  
-  
-    {
-      "id": "cardthree",
-      "name": "Golden Dreams",
-      "company": "Golden Moments",
-      "price": 69,
-      "colors": ["#22D3EF","#CDD0D0"],
-      "description": "Luxurious gold accents adorn this exquisite card, evoking dreams of opulence and splendor.",
-      "category": "Diamond",
-      "stock": 300,
-      "reviews": 28,
-      "stars": 4.2,
-      "image": [
-        {
-          "id": "randomid1",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/17259710/pexels-photo-17259710/free-photo-of-a-wedding-invitation-and-a-glass-bottle-on-the-table.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "filename": "prod-1.png",
-          "size": 1080,
-          "type": "image/png"
-        },
-        {
-          "id": "randomid2",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/749344/pexels-photo-749344.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "filename": "prod-2.png",
-          "size": 1080,
-          "type": "image/png"
-        },
-        {
-          "id": "randomid3",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/6037943/pexels-photo-6037943.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "size": 1080,
-          "type": "image/png"
-        },
-        {
-          "id": "randomid4",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/6479559/pexels-photo-6479559.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "size": 1080,
-          "type": "image/png"
-        }
-      ]
-    },
-  
-  
-  
   {
-      "id": "cardfour",
-      "name": "Vintage Romance",
-      "company": "Romantic Designs",
-      "price": 79,
-      "colors": ["#000000","#CDD0D0"],
-      "description": "Whimsical floral patterns and delicate lace details create an aura of timeless romance.",
-      "category": "Diamond",
-      "shipping": true,
-      "stock": 300,
-      "reviews": 28,
-      "stars": 3.8,
-      "image": [
-        {
-          "id": "randomid1",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/17286636/pexels-photo-17286636/free-photo-of-an-elegant-wedding-invitation.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "filename": "prod-1.png",
-          "size": 1080,
-          "type": "image/png"
-        },
-        {
-          "id": "randomid2",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/2072148/pexels-photo-2072148.jpeg",
-          "filename": "prod-2.png",
-          "size": 1080,
-          "type": "image/png"
-        },
-        {
-          "id": "randomid3",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/7256792/pexels-photo-7256792.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "filename": "prod-3.png",
-          "size": 1080,
-          "type": "image/png"
-        },
-        {
-          "id": "randomid4",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/931158/pexels-photo-931158.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "size": 1080,
-          "type": "image/png"
-        }
-      ]
-    },
-  
-  
-  
+    "id": "cardone",
+    "name": "Forever Begins",
+    "company": "Love Letters",
+    "price": 49,
+    "colors": [
+      "#ff0000",
+      "#000000",
+      "#CDD0D0"
+    ],
+    "description": "Watercolor blooms dance across a crips ivory card, setting the stage for a celebration filled with elegance and joy.",
+    "category": "Ruby",
+    "featured": true,
+    "stock": 300,
+    "reviews": 58,
+    "stars": 4.8,
+    "images": [
+      "https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/7256792/pexels-photo-7256792.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/931158/pexels-photo-931158.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    ]
+  },
+
+
+
   {
-      "id": "cardfive",
-      "name": "Classic Elegance",
-      "company": "Elegant Invitations",
-      "price": 49,
-      "colors": ["#000","#CDD0D0"],
-      "description": "A classic design with a touch of modern sophistication, perfect for any formal occasion.",
-      "category": "Ruby",
-      "stock": 300,
-      "reviews": 28,
-      "stars": 3.8,
-      "image": [
-        {
-          "id": "randomid1",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/17286636/pexels-photo-17286636/free-photo-of-an-elegant-wedding-invitation.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "filename": "prod-1.png",
-          "size": 1080,
-          "type": "image/png"
-        },
-        {
-          "id": "randomid2",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/965993/pexels-photo-965993.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "filename": "prod-2.png",
-          "size": 1080,
-          "type": "image/png"
-        },
-        {
-          "id": "randomid3",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/4959837/pexels-photo-4959837.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "filename": "prod-3.png",
-          "size": 1080,
-          "type": "image/png"
-        },
-        {
-          "id": "randomid4",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/306066/pexels-photo-306066.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "filename": "prod-4.png",
-          "size": 1080,
-          "type": "image/png"
-        }
+    "id": "cardtwo",
+    "name": "Elegant Bliss",
+    "company": "Elegance Creations",
+    "price": 59,
+    "colors": [
+      "#000",
+      "#22D3EF"
+    ],
+    "description": "Simple yet sophisticated, this card radiates timeless elegance, perfect for any celebration.",
+    "category": "Platinum",
+    "shipping": true,
+    "stock": 300,
+    "reviews": 28,
+    "stars": 4.4,
+    "images": [
+      "https://images.pexels.com/photos/17248928/pexels-photo-17248928/free-photo-of-a-wedding-invitation-among-flower-decorations.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/7256792/pexels-photo-7256792.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/931158/pexels-photo-931158.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
       ]
-    },
-  
+  },
+
+
+
   {
-      "id": "cardsix",
-      "name": "Regal Affair",
-      "company": "Royal Invitations",
-      "price": 89,
-      "colors": ["#000000","#CDD0D0"],
-      "description": "Opulent details and rich colors make this card fit for royalty, creating an unforgettable impression.",
-      "category": "Diamond",
-      "shipping": true,
-      "stock": 300,
-      "reviews": 12,
-      "stars": 4.1,
-      "image": [
-        {
-          "id": "randomid1",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/13106764/pexels-photo-13106764.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "filename": "prod-1.png",
-          "size": 1080,
-          "type": "image/png"
-        },
-        {
-          "id": "randomid2",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/749344/pexels-photo-749344.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "filename": "prod-2.png",
-          "size": 1080,
-          "type": "image/png"
-        },
-        {
-          "id": "randomid3",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/6037943/pexels-photo-6037943.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "size": 1080,
-          "type": "image/png"
-        },
-        {
-          "id": "randomid4",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/6479559/pexels-photo-6479559.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "size": 1080,
-          "type": "image/png"
-        }
-      ]
-    },
-  
-  
-  
-  {
-      "id": "cardseven",
-      "name": "Chic Celebration",
-      "company": "Chic Designs",
-      "price": 39,
-      "colors": ["#CDD0D0","#000"],
-      "description": "Sleek lines and bold colors combine to create a modern invitation, perfect for a chic celebration.",
-      "category": "Ruby",
-      "shipping": true,
-      "stock": 300,
-      "reviews": 23,
-      "stars": 3.7,
-      "image": [
-        {
-          "id": "randomid1",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/4838512/pexels-photo-4838512.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "filename": "prod-1.png",
-          "size": 1080,
-          "type": "image/png"
-        },
-        {
-          "id": "randomid2",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/2072148/pexels-photo-2072148.jpeg",
-          "filename": "prod-2.png",
-          "size": 1080,
-          "type": "image/png"
-        },
-        {
-          "id": "randomid3",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/7256792/pexels-photo-7256792.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "filename": "prod-3.png",
-          "size": 1080,
-          "type": "image/png"
-        },
-        {
-          "id": "randomid4",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/931158/pexels-photo-931158.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "size": 1080,
-          "type": "image/png"
-        }
-      ]
-    },
-  
-  
-  
-  {
-      "id": "cardeight",
-      "name": "Enchanted Garden",
-      "company": "Love Letters",
-      "price": 59,
-      "colors": ["#000","#CDD0D0"],
-      "description": "Whimsical florals and lush greenery adorn this enchanting card, bringing the beauty of nature to your celebration.",
-      "category": "Platinum",
-      "featured": true,
-      "shipping": true,
-      "stock": 300,
-      "reviews": 23,
-      "stars": 4.2,
-      "image": [
-        {
-          "id": "randomid1",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/11994923/pexels-photo-11994923.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "filename": "prod-1.png",
-          "size": 1080,
-          "type": "image/png"
-        },
-        {
-          "id": "randomid2",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/965993/pexels-photo-965993.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "filename": "prod-2.png",
-          "size": 1080,
-          "type": "image/png"
-        },
-        {
-          "id": "randomid3",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/4959837/pexels-photo-4959837.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "filename": "prod-3.png",
-          "size": 1080,
-          "type": "image/png"
-        },
-        {
-          "id": "randomid4",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/306066/pexels-photo-306066.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "filename": "prod-4.png",
-          "size": 1080,
-          "type": "image/png"
-        }
-      ]
-    },
-  
-  
-  
-  {
-      "id": "cardnine",
-      "name": "Sapphire Splendor",
-      "company": "Royal Invitations",
-      "price": 125,
-      "colors": ["#000000"],
-      "description": "Exquisite sapphire hues and intricate details create a sense of opulence and grandeur, perfect for a regal affair.",
-      "category": "Gold",
-      "stock": 300,
-      "reviews": 23,
-      "stars": 4.6,
-      "image": [
-        {
-          "id": "randomid1",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/1805599/pexels-photo-1805599.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "filename": "prod-1.png",
-          "size": 1080,
-          "type": "image/png"
-        },
-        {
-          "id": "randomid2",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/749344/pexels-photo-749344.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "filename": "prod-2.png",
-          "size": 1080,
-          "type": "image/png"
-        },
-        {
-          "id": "randomid3",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/6037943/pexels-photo-6037943.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "size": 1080,
-          "type": "image/png"
-        },
-        {
-          "id": "randomid4",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/6479559/pexels-photo-6479559.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "size": 1080,
-          "type": "image/png"
-        }
-      ]
-    },
-  
-  
-  
-  {
-      "id": "cardten",
-      "name": "Whimsical Wonderland",
-      "company": "Golden Moments",
-      "price": 110,
-      "colors": ["#ff0000","#22D3EF","#000000"],
-      "description": "Step into a whimsical wonderland with this enchanting invitation, filled with magic and delight.",
-      "category": "Premium",
-      "stock": 300,
-      "reviews": 23,
-      "stars": 4.2,
-      "image": [
-        {
-          "id": "randomid1",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/1467193/pexels-photo-1467193.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "filename": "prod-1.png",
-          "size": 1080,
-          "type": "image/png"
-        },
-        {
-          "id": "randomid2",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/2072148/pexels-photo-2072148.jpeg",
-          "filename": "prod-2.png",
-          "size": 1080,
-          "type": "image/png"
-        },
-        {
-          "id": "randomid3",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/7256792/pexels-photo-7256792.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "filename": "prod-3.png",
-          "size": 1080,
-          "type": "image/png"
-        },
-        {
-          "id": "randomid4",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/931158/pexels-photo-931158.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "size": 1080,
-          "type": "image/png"
-        }
-      ]
-    },
-  
-  
-  
-  {
-      "id": "cardeleven",
-      "name": "Timeless Treasure",
-      "company": "Love Letters",
-      "price": 69,
-      "colors": ["#000000","#CDD0D0"],
-      "description": "Elegant details and warm hues make this invitation a timeless treasure, perfect for cherished celebrations.",
-      "category": "Gold",
-      "stock": 300,
-      "reviews": 60,
-      "stars": 4.8,
-      "image": [
-        {
-          "id": "randomid1",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/3839650/pexels-photo-3839650.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "filename": "prod-1.png",
-          "size": 1080,
-          "type": "image/png"
-        },
-        {
-          "id": "randomid2",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/965993/pexels-photo-965993.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "filename": "prod-2.png",
-          "size": 1080,
-          "type": "image/png"
-        },
-        {
-          "id": "randomid3",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/4959837/pexels-photo-4959837.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "filename": "prod-3.png",
-          "size": 1080,
-          "type": "image/png"
-        },
-        {
-          "id": "randomid4",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/306066/pexels-photo-306066.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "filename": "prod-4.png",
-          "size": 1080,
-          "type": "image/png"
-        }
-      ]
-    },
-  
-  
-  
-  {
-      "id": "cardtwelve",
-      "name": "Celestial Serenity",
-      "company": "Elegance Creations",
-      "price": 69,
-      "colors": ["#22D3EF","#ff0000","#000000"],
-      "description": "Journey to the stars with this celestial-inspired invitation, invoking serenity and wonder.",
-      "category": "Diamond",
-      "featured": true,
-      "stock": 300,
-      "reviews": 60,
-      "stars": 4.4,
-      "image": [
-        {
-          "id": "randomid1",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/12627875/pexels-photo-12627875.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "filename": "prod-1.png",
-          "size": 1080,
-          "type": "image/png"
-        },
-        {
-          "id": "randomid2",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/749344/pexels-photo-749344.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "filename": "prod-2.png",
-          "size": 1080,
-          "type": "image/png"
-        },
-        {
-          "id": "randomid3",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/6037943/pexels-photo-6037943.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "size": 1080,
-          "type": "image/png"
-        },
-        {
-          "id": "randomid4",
-          "width": 1080,
-          "height": 650,
-          "url": "https://images.pexels.com/photos/6479559/pexels-photo-6479559.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "size": 1080,
-          "type": "image/png"
-        }
-      ]
-    }
-  
-  ]
+    "id": "cardthree",
+    "name": "Golden Dreams",
+    "company": "Golden Moments",
+    "price": 69,
+    "colors": ["#22D3EF","#CDD0D0"],
+    "description": "Luxurious gold accents adorn this exquisite card, evoking dreams of opulence and splendor.",
+    "category": "Diamond",
+    "stock": 300,
+    "reviews": 28,
+    "stars": 4.2,
+    "images": [
+"https://images.pexels.com/photos/17259710/pexels-photo-17259710/free-photo-of-a-wedding-invitation-and-a-glass-bottle-on-the-table.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+"https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+"https://images.pexels.com/photos/7256792/pexels-photo-7256792.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+"https://images.pexels.com/photos/931158/pexels-photo-931158.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+]
+  },
+
+
+
+{
+    "id": "cardfour",
+    "name": "Vintage Romance",
+    "company": "Romantic Designs",
+    "price": 79,
+    "colors": ["#000000","#CDD0D0"],
+    "description": "Whimsical floral patterns and delicate lace details create an aura of timeless romance.",
+    "category": "Diamond",
+    "shipping": true,
+    "stock": 300,
+    "reviews": 28,
+    "stars": 3.8,
+    "images": [
+"https://images.pexels.com/photos/17286636/pexels-photo-17286636/free-photo-of-an-elegant-wedding-invitation.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+"https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+"https://images.pexels.com/photos/7256792/pexels-photo-7256792.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+"https://images.pexels.com/photos/931158/pexels-photo-931158.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+]
+  },
+
+
+
+{
+    "id": "cardfive",
+    "name": "Classic Elegance",
+    "company": "Elegant Invitations",
+    "price": 49,
+    "colors": ["#000","#CDD0D0"],
+    "description": "A classic design with a touch of modern sophistication, perfect for any formal occasion.",
+    "category": "Ruby",
+    "stock": 300,
+    "reviews": 28,
+    "stars": 3.8,
+    "images": [
+"https://images.pexels.com/photos/17286636/pexels-photo-17286636/free-photo-of-an-elegant-wedding-invitation.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+"https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+"https://images.pexels.com/photos/7256792/pexels-photo-7256792.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+"https://images.pexels.com/photos/931158/pexels-photo-931158.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+]
+  },
+
+{
+    "id": "cardsix",
+    "name": "Regal Affair",
+    "company": "Royal Invitations",
+    "price": 89,
+    "colors": ["#000000","#CDD0D0"],
+    "description": "Opulent details and rich colors make this card fit for royalty, creating an unforgettable impression.",
+    "category": "Diamond",
+    "shipping": true,
+    "stock": 300,
+    "reviews": 12,
+    "stars": 4.1,
+    "images": [
+    "https://images.pexels.com/photos/13106764/pexels-photo-13106764.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "https://images.pexels.com/photos/7256792/pexels-photo-7256792.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "https://images.pexels.com/photos/931158/pexels-photo-931158.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+]
+  }
+]
