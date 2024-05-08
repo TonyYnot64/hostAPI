@@ -49,15 +49,13 @@ const productSchema = new mongoose.Schema({
     type: Number,
     required: true
   },
-  images: [{ // Define images as an array of objects
-    id: String,
-    width: Number,
-    height: Number,
-    url: String,
-    filename: String,
-    size: Number,
-    type: String
-}]
+  images: {
+    "type": "array",
+    "items": {
+      "type": "string",
+      "format": "uri"
+    }
+  }
 });
 
 
